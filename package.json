@@ -1,0 +1,22 @@
+{
+  "name": "07-pig-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IuliaMurtazina/Pig-Game-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IuliaMurtazina/Pig-Game-JS/issues"
+  },
+  "homepage": "https://github.com/IuliaMurtazina/Pig-Game-JS#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
